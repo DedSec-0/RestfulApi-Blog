@@ -1,3 +1,3 @@
 # RestfulApi-Blog
 
-Dont Forget to use modules using npm install.
+Dont Forget to install required modules with npm install.
